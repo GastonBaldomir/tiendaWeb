@@ -1,0 +1,41 @@
+.imgCarrito{
+    width: 50px;
+    text-align: center;
+    position: relative;
+    
+}
+.btn__residuos{
+    width: 30px;
+}
+.mod {
+    top: 15px;
+    text-align: center;
+    position: relative;
+}
+.idTabla{
+    display: none;
+}
+.inventarioHtml{
+justify-content: center;
+align-items: center;
+}
+@media screen and (max-width: 770px){
+  .totalcompraHtml{
+    font-size: 75%;
+    
+  } 
+  #finalizarCompra{
+
+    width: 75%;
+    height: 75%;
+    font-size: 50%;
+  } 
+  #vaciar__carrito{
+    width: 75%;
+    height: 75%;
+    font-size: 50%;
+  }
+
+  
+  
+}
